@@ -75,9 +75,7 @@ Watch the full simulation walkthrough on YouTube:
 
 ---
 
-
-
-
+  *This was my first Embedded System project which gave me hands-on experience in Embedded C Programming and PIC microcontroller. I hope this repository serves as valuable resource for others on similar learning path. I welcome suggestions, improvements or discussions on this project, so feel free to reach out.*
 
 
 
